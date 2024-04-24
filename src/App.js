@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <footer>
-        <p>giengquyhieu</p>
+        <p>giengquyhieu@gmail.com</p>
       </footer>
     </div>
   );
